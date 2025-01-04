@@ -36,7 +36,7 @@ The password should be encrypted and the password field shouldn't be displayed i
 # Installing - easy ::
 1.	Download the repository
 ```
-git clone https://github.com/margiki/NHS-nodejs-webapp
+https://github.com/Amanydav/Hospital-Management-Services.git
 ```
 2.	Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
 3. Go to frontend folder and type " npm install " in the terminal and press Enter.All the dependencies of frontend would be installed.
