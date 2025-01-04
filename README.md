@@ -54,7 +54,7 @@ npm install
 
 ### 4. Run the Application
 ```bash
-npm run dev
+npm start
 ```
 The application will be live at [http://localhost:3000](http://localhost:3000).
 
