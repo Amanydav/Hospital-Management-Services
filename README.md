@@ -64,29 +64,29 @@ The application will be live at [http://localhost:3000](http://localhost:3000).
 
 ### **Homepage**
 The main page where patients and administrators can log in to their respective accounts.
-
-![Homepage](<Screenshot (4).png>)
+![home](https://github.com/user-attachments/assets/6e62cf07-e85d-43b5-be26-be224258ac65)
 
 ---
 
 ### **Contact Us Page**
-Patients and users can provide feedback or ask queries regarding the hospital services.
 
-![Contact Us](<Screenshot (9).png>)
+![contact](https://github.com/user-attachments/assets/ac7b10f0-ca7e-4a27-9410-67092249acd9)
+
+
 
 ---
 
 ### **Login Page**
 Users must log in to book doctor appointments.
 
-![Login](login.png)
+![login](https://github.com/user-attachments/assets/55110dfe-16fa-434b-a22f-2f699d3fb65c)
+
 
 ---
 
 ### **Appointment Booking**
 After logging in, users can book their appointments by selecting the date, time, and adding details about their condition.
-
-![Appointment](<Screenshot (7).png>)
+![appoinment](https://github.com/user-attachments/assets/ac768700-6a8e-467a-9288-d6d7c9c0935d)
 
 ---
 
