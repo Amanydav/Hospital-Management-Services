@@ -1,130 +1,97 @@
+# Hospital Management System 🏥
 
-# Hospital Management System
+A **Hospital Management System** built using **MongoDB**, **Express**, **React**, and **Redux Toolkit**. This project aims to streamline hospital operations and provide a user-friendly interface for patients, doctors, and administrators.
 
+## 🚀 Live Demo
+[Hospital Management System Demo](https://hospital-management-services.netlify.app/)
 
-Hospital Management System using MongoDb, Express and React
+## ⚡ Features to Work On
+1. **Doctor's Appointment Acceptance**  
+   Allow doctors to accept or reject appointments and notify patients accordingly.
 
+2. **Email ID Validation**  
+   Prevent users from registering with an already registered email. Password should be encrypted and hidden in the admin panel.
 
-# Need to  work on
+3. **Billing and Invoices**  
+   Enable users to generate invoices, track payments, and manage billing information.
 
-1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
+4. **Prescription Enhancement**  
+   Add more specific fields to the prescription form for better details.
 
+5. **Payment Details**  
+   Include more details on payments, such as payment date, amount, etc.
 
-2. User should not be allowed to register if he/she tries to provide the already registered email ID.
-The password should be encrypted and the password field shouldn't be displayed in the admin panel.
+6. **Doctor Profile Management**  
+   Allow doctors to manage their profiles, specialties, availability, and contact information.
 
-3. Enables users to generate invoices, track payments, and manage billing information for patients.
+## 💻 Technologies Used
 
-4. Addition of more fields in the prescription statement to make it more specific one.
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **State Management:** Redux Toolkit
 
-5. Addition of more details on payment - such as date of the payment made, amount paid, etc.
+## 📦 Installation Guide
 
-6. Allows doctors and healthcare providers to create and manage their profiles, including specialties, availability, and contact information.
+To get started with the project, follow these simple steps:
 
-
-## Language and Technology used:
-
-1. Html,css
-2. Javascript
-3. React
-4. MongoDb
-5. Express
-6. Redux Toolkit 
-
-## Installing
-
-# Installing - easy ::
-1.	Download the repository
-```
+### 1. Clone the Repository
+```bash
 https://github.com/Amanydav/Hospital-Management-Services.git
 ```
-2.	Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
-3. Go to frontend folder and type " npm install " in the terminal and press Enter.All the dependencies of frontend would be installed.
-```bash 
-cd frontend 
-npm install 
-```
-4. Go to backed  folder and type " npm install " in the terminal and press Enter.All the dependencies of backed  would be installed.
-```bash 
-cd backend  
-npm install 
+
+### 2. Install Frontend Dependencies
+```bash
+cd frontend
+npm install
 ```
 
-5.	Go back to the Terminal (PowerShell) and be sure that you are pointing inside the project folder. To open the application, type ‘npm run dev ’ and press Enter.
-6.	The application should be live on the local port 3000.  
-7.	Type http://localhost:3000/ into a browser.
+### 3. Install Backend Dependencies
+```bash
+cd backend
+npm install
+```
 
-8.	Now you should be inside the application
+### 4. Run the Application
+```bash
+npm run dev
+```
+The application will be live at [http://localhost:3000](http://localhost:3000).
 
+---
 
+## 🖼️ Screenshots
 
-## Gettint Into The project
+### **Homepage**
+The main page where patients and administrators can log in to their respective accounts.
 
+![Homepage](<Screenshot (4).png>)
 
-## Screenshots
+---
 
-## HomePage
-Hospital Management System in mern stack. This system has a ‘Home’ page from where the patient & administrator can login into their accounts by toggling the tabs accordingly...
+### **Contact Us Page**
+Patients and users can provide feedback or ask queries regarding the hospital services.
 
-![homepage](<Screenshot (4).png>)
+![Contact Us](<Screenshot (9).png>)
 
+---
 
+### **Login Page**
+Users must log in to book doctor appointments.
 
-## Contact us page
+![Login](login.png)
 
-‘Contact’ page allows users to provide feedback or queries about the services of the hospital. 
-![contact page](<Screenshot (9).png>)
+---
 
+### **Appointment Booking**
+After logging in, users can book their appointments by selecting the date, time, and adding details about their condition.
 
-## Login
-To make  a Appointment of Doctor user must be login first.
+![Appointment](<Screenshot (7).png>)
 
-![login page](login.png)
-
-
-##  Book his/her appointment:
-After Login in successfully user book their  Appointment. The appointment form requires patients to select  Date and Time that they want to meet with the doctor and add their desease. The consultancy fee will be added by the administrator.
-
-![Appoitnment](<Screenshot (7).png>)
-
-
-## Add invoice from admin pannel
-
-After the process of Appointment is completed.Administrator add the invoice for each Appointment.
-
-
-![add invoice](<Screenshot (20)-1.png>)
-
-
-## payment 
-
- Go to dashboard to see history of Appointment.  Now user can pay his bill through khalti payment gateway.
-
-![user-dashboard](<Screenshot (17).png>)
-
-
-![khalti-payment](<Screenshot (18).png>)
+---
 
 
 
+## 📧 Contact & Collaboration
 
-
-## Admin module
-
-   This module is the heart of our project where an admin can see the list of all patients. Admin also can add the invoice for each user..who make a appointment of doctor. Admin can also Add docotor ,Delete Doctor.
-
-   
-![admin-user](<Screenshot (20).png>)
-
-
-![admin-doctor](<Screenshot (19).png>)
-
-
-
-
-
-
-
-
-
-
+Feel free to reach out to me if you want to collaborate or need assistance with any part of this project.
